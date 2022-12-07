@@ -1,7 +1,7 @@
 { 
    "name": "SahilP TeaMs", 
    "description": "Additional plugins to enhance your experience in servers under the SahilP TeaMs family", 
-   "plugins_base_url": "/https://github.com/bestdrtrayblox3/bombsquad-mods/{content_type}/main/mods", 
+   "plugins_base_url": "/https://github.com/bestdrtrayblox3/bombsquad-mods/tree/main/mods", 
    "plugins": { 
      "sahilp_characters": { 
        "description": "Characters exclusive to servers under the SahilP TeaMs family.", 
